@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridham</h1>
 <h3 align="center">A passionate developer at Cal State University, Northridge</h3>
 
-- 🔭 I’m currently working on **an E-Com store using Flutter and Firebase.**
+- 🔭 I’m currently working on **a production level E-Com store using Flutter and Firebase.**
 
 - 🌱 I’m currently learning **Dart and Flutter.**
 
