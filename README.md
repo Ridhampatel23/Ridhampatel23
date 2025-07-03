@@ -18,7 +18,7 @@ production level applications using Spring Boot!
 
 ## 🌐 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/ridhampatel23)
-- [Email](mailto://ridhampatel0901@gmail.com)
+- [Email](mailto:ridhampatel0901@gmail.com)
 
 
 
