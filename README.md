@@ -10,13 +10,13 @@ I am a fourth-year computer Science student at California State University North
 
 ## 🎓 About Me
 
-I build backend-heavy systems - microservices, event-driven 
+I build backend-heavy systems; microservices, event-driven 
 pipelines, cloud infrastructure. Lately obsessed with making 
 things scale cleanly on AWS.
 
 Previously built real-time ML systems at NASA and scaled 
 research platforms at CSUN (NSF funded). Always working on 
-something new - check the pinned repos below.
+something new; check the pinned repos below.
 
 Open to new grad SWE roles starting Summer 2026.
 
