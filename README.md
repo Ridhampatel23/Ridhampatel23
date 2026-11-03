@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ridham Patel</h1>
 
 # 💫 About Me:
-I am a fourth-year computer Science student at California State University Northridge, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a computer Science student graduated from at California State University Northridge, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
